@@ -1,0 +1,780 @@
+{
+  "quotes": [
+    {
+      "text": "Gênio é 1% de inspiração e 99% de transpiração",
+      "author": "Thomas Edison"
+    },
+    {
+      "text": "Pode-se observar muito só de olhar",
+      "author": "Yogi Berra"
+    },
+    {
+      "text": "Uma casa dividida contra si mesma não pode ficar de pé",
+      "author": "Abraham Lincoln"
+    },
+    {
+      "text": "As dificuldades aumentam quanto mais perto chegamos do objectivo",
+      "author": "Johann Wolfgang von Goethe"
+    },
+    {
+      "text": "O destino está nas vossas mãos e ninguém se elses",
+      "author": "Byron Pulsifer"
+    },
+    {
+      "text": "Sê o chefe mas nunca o senhor",
+      "author": "Lao Tzu"
+    },
+    {
+      "text": "Nada acontece, a menos que primeiro sonhemos",
+      "author": "Carl Sandburg"
+    },
+    {
+      "text": "Bem começado está meio feito",
+      "author": "Aristóteles"
+    },
+    {
+      "text": "A vida é uma experiência de aprendizagem, apenas se aprendermos",
+      "author": "Yogi Berra"
+    },
+    {
+      "text": "A auto-complacência é fatal para o progresso",
+      "author": "Margaret Sangster"
+    },
+    {
+      "text": "A paz vem de dentro. Não a procure sem",
+      "author": "Buda"
+    },
+    {
+      "text": "O que se dá é o que se recebe",
+      "author": "Byron Pulsifer"
+    },
+    {
+      "text": "Só podemos aprender a amar amando",
+      "author": "Iris Murdoch"
+    },
+    {
+      "text": "A vida é mudança. O crescimento é opcional. Escolha sabiamente",
+      "author": "Karen Clark"
+    },
+    {
+      "text": "Vê-lo-ão quando acreditarem",
+      "author": "Wayne Dyer"
+    },
+    {
+      "text": "Hoje é o amanhã que nos preocupa ontem",
+      "author": null
+    },
+    {
+      "text": "É mais fácil ver os erros no papel de outra pessoa",
+      "author": null
+    },
+    {
+      "text": "Todos os homens morrem. Nem todos os homens vivem realmente",
+      "author": null
+    },
+    {
+      "text": "Para levar as pessoas a andar atrás delas",
+      "author": "Lao Tzu"
+    },
+    {
+      "text": "Não tendo nada, nada pode ele perder",
+      "author": "William Shakespeare"
+    },
+    {
+      "text": "Problema é apenas oportunidade em roupa de trabalho",
+      "author": "Henry J. Kaiser"
+    },
+    {
+      "text": "Uma pedra rolante não recolhe musgo",
+      "author": "Publilius Syrus"
+    },
+    {
+      "text": "As ideias são os pontos de partida de todas as fortunas",
+      "author": "Colina de Napoleão"
+    },
+    {
+      "text": "Tudo na vida é sorte",
+      "author": "Donald Trump"
+    },
+    {
+      "text": "Não fazer nada é melhor do que estar ocupado sem fazer nada",
+      "author": "Lao Tzu"
+    },
+    {
+      "text": "Confie em si mesmo. Sabe mais do que pensa",
+      "author": "Benjamin Spock"
+    },
+    {
+      "text": "Estudem o passado, se quiserem adivinhar o futuro",
+      "author": "Confúcio"
+    },
+    {
+      "text": "O dia já é abençoado, encontre a paz dentro dele",
+      "author": null
+    },
+    {
+      "text": "De erro em erro descobre-se toda a verdade",
+      "author": "Sigmund Freud"
+    },
+    {
+      "text": "Bem feito é melhor do que bem dito",
+      "author": "Benjamin Franklin"
+    },
+    {
+      "text": "Morde mais do que podes mastigar, depois mastiga-o",
+      "author": "Ella Williams"
+    },
+    {
+      "text": "Trabalha a tua própria salvação. Não dependa dos outros",
+      "author": "Buda"
+    },
+    {
+      "text": "Um hoje vale dois amanhãs",
+      "author": "Benjamin Franklin"
+    },
+    {
+      "text": "Uma vez escolhida a esperança, qualquer coisa é possível",
+      "author": "Christopher Reeve"
+    },
+    {
+      "text": "Deus toma sempre o caminho mais simples",
+      "author": "Albert Einstein"
+    },
+    {
+      "text": "Falha-se no caminho do sucesso",
+      "author": "Charles Kettering"
+    },
+    {
+      "text": "De pequenos começos vêm grandes coisas",
+      "author": null
+    },
+    {
+      "text": "A aprendizagem é um tesouro que seguirá o seu dono em todo o lado",
+      "author": "provérbio chinês"
+    },
+    {
+      "text": "Sejam como quiserem",
+      "author": "Sócrates"
+    },
+    {
+      "text": "O mundo está sempre em movimento",
+      "author": "V. Naipaul"
+    },
+    {
+      "text": "Nunca confundir actividade com realização",
+      "author": "John Wooden"
+    },
+    {
+      "text": "O que te preocupa domina",
+      "author": "Haddon Robinson"
+    },
+    {
+      "text": "Enfrentamos o futuro com o passado",
+      "author": "Sorte de pérola"
+    },
+    {
+      "text": "Os objectivos são o combustível na fornalha da realização",
+      "author": "Brian Tracy"
+    },
+    {
+      "text": "Quem semeia a virtude colhe a honra",
+      "author": "Leonardo da Vinci"
+    },
+    {
+      "texto": "Seja gentil sempre que possível. É sempre possível",
+      "autor": "Dalai Lama"
+    },
+    {
+      "texto": "A conversa não cozinha arroz",
+      "autor": "provérbio chinês"
+    },
+    {
+      "texto": "Ele é capaz quem pensa que é capaz",
+      "autor": "Buda"
+    },
+    {
+      "texto": "Um objectivo sem um plano é apenas um desejo",
+      "autor": "Larry Elder"
+    },
+    {
+      "texto": "Para sermos bem sucedidos, temos primeiro de acreditar que podemos",
+      "autor": "Michael Korda"
+    },
+    {
+      "texto": "Aprende de ontem, vive para hoje, espera para amanhã",
+      "autor": "Albert Einstein"
+    },
+    {
+      "texto": "Uma erva daninha não é mais do que uma flor disfarçada",
+      "autor": "James Lowell"
+    },
+    {
+      "texto": "Fazer, ou não fazer. Não há tentativa",
+      "autor": "Yoda"
+    },
+    {
+      "texto": "Toda a ousadia séria começa a partir de dentro",
+      "autor": "Harriet Beecher Stowe"
+    },
+    {
+      "texto": "O melhor professor é a experiência aprendida com os fracassos",
+      "autor": "Byron Pulsifer"
+    },
+    {
+      "texto": "Pense como a física seria dura se as partículas pudessem pensar",
+      "autor": "Murray Gell-Mann"
+    },
+    {
+      "texto": "O amor é a flor que se tem de deixar crescer",
+      "autor": "John Lennon"
+    },
+    {
+      "texto": "Não espere. O momento nunca será o mais oportuno",
+      "autor": "Colina de Napoleão"
+    },
+    {
+      "texto": "O tempo é o conselheiro mais sábio de todos",
+      "autor": "Péricles"
+    },
+    {
+      "texto": "Dás antes de receberes",
+      "autor": "Napoleon Hill"
+    },
+    {
+      "texto": "A sabedoria começa em maravilha",
+      "autor": "Sócrates"
+    },
+    {
+      "texto": "Sem coragem, a sabedoria não dá frutos",
+      "autor": "Baltasar Graciano"
+    },
+    {
+      "texto": "A mudança em todas as coisas é doce",
+      "autor": "Aristóteles"
+    },
+    {
+      "texto": "O que se teme é o que requer acção para superar",
+      "autor": "Byron Pulsifer"
+    },
+    {
+      "texto": "Quando o desempenho excede a ambição, a sobreposição é chamada sucesso",
+      "autor": "Cullen Hightower"
+    },
+    {
+      "texto": "Quando os actos falam, as palavras não são nada",
+      "autor": "provérbio africano"
+    },
+    {
+      "texto": "A verdadeira magia nas relações significa uma ausência de julgamento dos outros",
+      "autor": "Wayne Dyer"
+    },
+    {
+      "texto": "Nunca penso no futuro. Vem em breve",
+      "autor": "Albert Einstein"
+    },
+    {
+      "texto": "Habilidade para fazer vem do fazer",
+      "autor": "Ralph Emerson"
+    },
+    {
+      "texto": "A sabedoria é a parte suprema da felicidade",
+      "autor": "Sófocles"
+    },
+    {
+      "texto": "Acredito que cada pessoa nasce com talento",
+      "autor": "Maya Angelou"
+    },
+    {
+      "texto": "Os princípios importantes podem, e devem, ser inflexíveis",
+      "autor": "Abraham Lincoln"
+    },
+    {
+      "texto": "A realização de uma nova acção traz uma nova força",
+      "autor": "Richard Evans"
+    },
+    {
+      "texto": "Os anos ensinam muito, o que os dias nunca sabem",
+      "autor": "Ralph Emerson"
+    },
+    {
+      "texto": "A nossa desconfiança é muito cara",
+      "autor": "Ralph Emerson"
+    },
+    {
+      "texto": "Todos conhecem o caminho; poucos realmente o percorrem",
+      "autor": "Bodhidharma"
+    },
+    {
+      "texto": "Grande talento encontra a felicidade na execução",
+      "autor": "Johann Wolfgang von Goethe"
+    },
+    {
+      "texto": "A fé em si mesmo é o melhor e mais seguro curso",
+      "autor": "Miguel Ângelo"
+    },
+    {
+      "texto": "A coragem vai do fracasso ao fracasso sem perder o entusiasmo",
+      "autor": "Winston Churchill"
+    },
+    {
+      "texto": "Os dois guerreiros mais poderosos são a paciência e o tempo",
+      "autor": "Leo Tolstoi"
+    },
+    {
+      "texto": "Antecipar o difícil, gerindo o fácil",
+      "autor": "Lao Tzu"
+    },
+    {
+      "texto": "Aqueles que estão livres de pensamentos ressentidos certamente encontram a paz",
+      "autor": "Buda"
+    },
+    {
+      "texto": "Um pequeno ditado contém frequentemente muita sabedoria",
+      "autor": "Sófocles"
+    },
+    {
+      "texto": "É preciso tanto sol como chuva para fazer um arco-íris",
+      "autor": null
+    },
+    {
+      "texto": "Uma coisa bela nunca é perfeita",
+      "autor": null
+    },
+    {
+      "texto": "Fazei apenas o que o vosso coração vos disser",
+      "autor": "Princesa Diana"
+    },
+    {
+      "texto": "A vida é movimento - nós respiramos, comemos, caminhamos, movemo-nos",
+      "autor": "John Pierrakos"
+    },
+    {
+      "texto": "Ninguém pode fazer-te sentir inferior sem o teu consentimento",
+      "autor": "Eleanor Roosevelt"
+    },
+    {
+      "texto": "Argutem pelas vossas limitações, e com toda a certeza que são vossas",
+      "autor": "Richard Bach"
+    },
+    {
+      "texto": "A sorte é o que acontece quando a preparação encontra a oportunidade",
+      "autor": "Séneca"
+    },
+    {
+      "texto": "A vitória pertence aos mais perseverantes",
+      "autor": "Napoleão Bonaparte"
+    },
+    {
+      "texto": "Amar a todos, confiar em poucos, não fazer mal a ninguém",
+      "autor": "William Shakespeare"
+    },
+    {
+      "texto": "Para vencer, é preciso esperar vencer",
+      "autor": "Richard Bach"
+    },
+    {
+      "texto": "Um objectivo é um sonho com um prazo",
+      "autor": "Colina de Napoleão"
+    },
+    {
+      "texto": "Pode fazê-lo se acreditar que pode!",
+      "autor": "Colina de Napoleão"
+    },
+    {
+      "texto": "Fixe os seus objectivos bem alto, e não pare até lá chegar",
+      "autor": "Bo Jackson"
+    },
+    {
+      "texto": "Cada novo dia é mais uma oportunidade para mudar a sua vida",
+      "autor": null
+    },
+    {
+      "texto": "Sorri, respira, e vai devagar",
+      "autor": "Thich Nhat Hanh"
+    },
+    {
+      "texto": "Ninguém acreditará em si, a menos que acredite em si próprio",
+      "autor": "Liberace"
+    },
+    {
+      "texto": "Fazer mais do que sonhar: trabalhar",
+      "autor": "William Arthur Ward"
+    },
+    {
+      "texto": "Nenhum homem foi sábio por acaso",
+      "autor": "Séneca"
+    },
+    {
+      "texto": "Alguns perseguem a felicidade, outros criam-na",
+      "autor": null
+    },
+    {
+      "texto": "Aquele que é tonto pensa que o mundo se vira",
+      "autor": "William Shakespeare"
+    },
+    {
+      "texto": "Não estrague o presente com o passado arruinado",
+      "autor": "Ellen Gilchrist"
+    },
+    {
+      "texto": "Faça algo maravilhoso, as pessoas podem imitá-lo",
+      "autor": "Albert Schweitzer"
+    },
+    {
+      "texto": "Fazemos o que fazemos porque acreditamos",
+      "autor": null
+    },
+    {
+      "texto": "Faz uma coisa todos os dias que te assuste",
+      "autor": "Eleanor Roosevelt"
+    },
+    {
+      "texto": "Se não pode ficar calado, seja brilhante e atencioso",
+      "autor": "Byron Pulsifer"
+    },
+    {
+      "texto": "Quem olha para fora, sonha; quem olha para dentro, desperta",
+      "autor": "Carl Jung"
+    },
+    {
+      "texto": "O que pensamos, tornamo-nos",
+      "autor": "Buda"
+    },
+    {
+      "texto": "A resposta mais curta é fazer",
+      "autor": "Lorde Herbert"
+    },
+    {
+      "texto": "Todo o nosso conhecimento tem a sua origem nas nossas percepções",
+      "autor": "Leonardo da Vinci"
+    },
+    {
+      "texto": "Quanto mais forte caires, mais alto saltas",
+      "autor": null
+    },
+    {
+      "texto": "Confiar na nossa intuição salva-nos muitas vezes do desastre",
+      "autor": "Anne Wilson Schaef"
+    },
+    {
+      "texto": "A verdade é poderosa e prevalece",
+      "autor": "A Verdade de Estada"
+    },
+    {
+      "texto": "Luz amanhã com hoje!",
+      "autor": "Elizabeth Browning"
+    },
+    {
+      "texto": "O silêncio é uma vedação em torno da sabedoria",
+      "autor": "provérbio alemão"
+    },
+    {
+      "texto": "A sociedade desenvolve-se com inteligência, mas só a sua contemplação forma um génio",
+      "autor": "Madame de Stael"
+    },
+    {
+      "texto": "As coisas mais simples são muitas vezes as mais verdadeiras",
+      "autor": "Richard Bach"
+    },
+    {
+      "texto": "Todos sorriem na mesma língua",
+      "autor": null
+    },
+    {
+      "texto": "Ontem atrevi-me a lutar. Hoje atrevo-me a vencer",
+      "autor": "Bernadette Devlin"
+    },
+    {
+      "texto": "Nenhum álibi o poupará de aceitar a responsabilidade",
+      "autor": "Colina de Napoleão"
+    },
+    {
+      "texto": "Se o conseguires sonhar, consegues fazê-lo",
+      "autor": "Walt Disney"
+    },
+    {
+      "texto": "É melhor viajar bem do que chegar",
+      "autor": "Buda"
+    },
+    {
+      "texto": "A vida encolhe ou expande-se na proporção da coragem",
+      "autor": "Anais Nin"
+    },
+    {
+      "texto": "Tens de acreditar em ti próprio",
+      "autor": "Sun Tzu"
+    },
+    {
+      "texto": "A nossa intenção cria a nossa realidade",
+      "autor": "Wayne Dyer"
+    },
+    {
+      "texto": "O silêncio é um verdadeiro amigo que nunca trai",
+      "autor": "Confúcio"
+    },
+    {
+      "texto": "O carácter desenvolve-se na corrente da vida",
+      "autor": "Johann Wolfgang von Goethe"
+    },
+    {
+      "texto": "De pequenas bolotas crescem poderosos carvalhos",
+      "autor": "Provérbio americano"
+    },
+    {
+      "texto": "Não se pode parar as ondas, mas pode-se aprender a surfar",
+      "autor": "Jon Kabat-Zinn"
+    },
+    {
+      "texto": "A realidade não está em conformidade com o ideal, mas confirma-o",
+      "autor": "Gustave Flaubert"
+    },
+    {
+      "texto": "Fala baixo, se falas amor",
+      "autor": "William Shakespeare"
+    },
+    {
+      "texto": "Um talento realmente grande encontra a sua felicidade na execução",
+      "autor": "Johann Wolfgang von Goethe"
+    },
+    {
+      "texto": "A realidade deixa muito à imaginação",
+      "autor": "John Lennon"
+    },
+    {
+      "texto": "O maior remédio para a raiva é o atraso",
+      "autor": "Séneca"
+    },
+    {
+      "texto": "O próprio crescimento contém o germe da felicidade",
+      "autor": "Sorte de pérola"
+    },
+    {
+      "texto": "Pode fazer o que é razoável ou pode decidir o que é possível",
+      "autor": null
+    },
+    {
+      "texto": "Nada fortalece tanto a autoridade como o silêncio",
+      "autor": "Leonardo da Vinci"
+    },
+    {
+      "texto": "Para onde quer que vás, vai com todo o teu coração",
+      "autor": "Confúcio"
+    },
+    {
+      "texto": "A única coisa realmente valiosa é a intuição",
+      "autor": "Albert Einstein"
+    },
+    {
+      "texto": "Boa sorte é outro nome para a tenacidade de propósito",
+      "autor": "Ralph Emerson"
+    },
+    {
+      "texto": "Arco-íris pede desculpa pelos céus zangados",
+      "autor": "Sylvia Voirol"
+    },
+    {
+      "texto": "A amizade não é uma coisa grande. É um milhão de pequenas coisas",
+      "autor": null
+    },
+    {
+      "texto": "O tempo é a coisa mais valiosa que um homem pode gastar",
+      "autor": "Theophrastus"
+    },
+    {
+      "texto": "Aconteça o que acontecer, assuma a responsabilidade",
+      "autor": "Tony Robbins"
+    },
+    {
+      "texto": "A experiência é simplesmente o nome que damos aos nossos erros",
+      "autor": "Oscar Wilde"
+    },
+    {
+      "texto": "Penso e isso é tudo o que sou",
+      "autor": "Wayne Dyer"
+    },
+    {
+      "texto": "Um bom plano hoje é melhor do que um plano perfeito amanhã",
+      "autor": null
+    },
+    {
+      "texto": "Se o sapato não couber, temos de mudar o pé?",
+      "autor": "Gloria Steinem"
+    },
+    {
+      "texto": "Cada dia fornece os seus próprios dons",
+      "autor": "Marcus Aureliu"
+    },
+    {
+      "texto": "Enquanto paramos para pensar, muitas vezes perdemos a nossa oportunidade",
+      "autor": "Publilius Syrus"
+    },
+    {
+      "texto": "A vida não é para se encontrar a si próprio. A vida é sobre criar-te a ti próprio",
+      "autor": "Bernard Shaw"
+    },
+    {
+      "texto": "Para trazer qualquer coisa para a sua vida, imagine que já lá está",
+      "autor": "Richard Bach"
+    },
+    {
+      "texto": "Começa a tecer e Deus dar-te-á o fio",
+      "autor": "provérbio alemão"
+    },
+    {
+      "texto": "Quanto mais se conhece, mais se perdoa a si próprio",
+      "autor": "Confúcio"
+    },
+    {
+      "texto": "Alguém se lembra, alguém se importa; o seu nome é sussurrado nas orações de alguém",
+      "autor": null
+    },
+    {
+      "texto": "Sem fé, nada é possível. Com ele, nada é impossível",
+      "autor": "Mary Bethune"
+    },
+    {
+      "texto": "Uma vez aceites os nossos limites, vamos para além deles",
+      "autor": "Albert Einstein"
+    },
+    {
+      "texto": "Não te deixes levar pelos teus problemas; deixa-te levar pelos teus sonhos",
+      "autor": null
+    },
+    {
+      "texto": "Tudo o que esperamos com confiança torna-se a nossa própria profecia auto-cumprida",
+      "autor": "Brian Tracy"
+    },
+    {
+      "texto": "Tudo o que se possa imaginar é real",
+      "autor": "Pablo Picasso"
+    },
+    {
+      "texto": "O medo é uma câmara escura onde se desenvolvem os negativos",
+      "autor": "Usman Asif"
+    },
+    {
+      "texto": "A mais verdadeira sabedoria é uma determinação resoluta",
+      "autor": "Napoleão Bonaparte"
+    },
+    {
+      "texto": "A vida é a flor para a qual o amor é o mel",
+      "autor": "Victor Hugo"
+    },
+    {
+      "texto": "A liberdade é o direito de viver como desejamos",
+      "autor": "Epictetus"
+    },
+    {
+      "texto": "Muda os teus pensamentos, muda a tua vida!",
+      "autor": null
+    },
+    {
+      "texto": "Nunca ignore um sentimento instintivo, mas nunca acredite que é suficiente",
+      "autor": "Robert Heller"
+    },
+    {
+      "texto": "A perda não é outra coisa senão mudança, e a mudança é o deleite da Natureza",
+      "autor": "Marcus Aurelius"
+    },
+    {
+      "texto": "Alguém só é especial se lhes disser",
+      "autor": "Byron Pulsifer"
+    },
+    {
+      "texto": "Hoje é o amanhã com que se preocupou ontem",
+      "autor": null
+    },
+    {
+      "texto": "Não há caminho para a felicidade, a felicidade é o caminho",
+      "autor": "Thich Nhat Hanh"
+    },
+    {
+      "texto": "O dia parece sempre mais brilhante por detrás de um sorriso",
+      "autor": null
+    },
+    {
+      "texto": "Um tropeço pode impedir uma queda",
+      "autor": null
+    },
+    {
+      "texto": "Aquele que fala mais, mais cedo se esgota",
+      "autor": "Lao Tzu"
+    },
+    {
+      "texto": "Aquele que está contente é rico",
+      "autor": "Lao Tzu"
+    },
+    {
+      "texto": "O que alcançarmos interiormente mudará a realidade exterior",
+      "autor": "Plutarco"
+    },
+    {
+      "texto": "A nossa força cresce a partir das nossas fraquezas",
+      "autor": "Ralph Waldo Emerson"
+    },
+    {
+      "texto": "Temos de nos tornar a mudança que queremos ver",
+      "autor": "Mahatma Gandhi"
+    },
+    {
+      "texto": "A felicidade encontra-se no fazer, não apenas no possuir",
+      "autor": "Colina de Napoleão"
+    },
+    {
+      "texto": "Põe o teu futuro em boas mãos o teu próprio",
+      "autor": null
+    },
+    {
+      "texto": "Escolhemos o nosso destino na forma como tratamos os outros",
+      "autor": "com"
+    },
+    {
+      "texto": "Nenhum floco de neve numa avalanche se sente alguma vez responsável",
+      "autor": "Voltaire"
+    },
+    {
+      "texto": "A sorte favorece os corajosos",
+      "autor": "Virgílio"
+    },
+    {
+      "texto": "Acredito numa única coisa: o poder da vontade humana",
+      "autor": "Joseph Stalin"
+    },
+    {
+      "texto": "A melhor saída é sempre através",
+      "autor": "Robert Frost"
+    },
+    {
+      "texto": "A mente desaprende com dificuldade o que há muito aprendeu",
+      "autor": "Séneca"
+    },
+    {
+      "texto": "Destruo os meus inimigos quando os faço meus amigos",
+      "autor": "Abraham Lincoln"
+    },
+    {
+      "texto": "Nenhum jardim está sem as suas ervas daninhas",
+      "autor": "Thomas Fuller"
+    },
+    {
+      "texto": "Não há falhas, excepto em não tentar mais",
+      "autor": "Elbert Hubbard"
+    },
+    {
+      "texto": "Palavras gentis desbloquearão uma porta de ferro",
+      "autor": "provérbio turco"
+    },
+    {
+      "texto": "Os problemas são apenas oportunidades com espinhos",
+      "autor": "Hugh Miller"
+    },
+    {
+      "texto": "A vida é apenas uma oportunidade para fazer crescer uma alma",
+      "autor": "A. Powell Davies"
+    },
+    {
+      "texto": "As montanhas não podem ser superadas a não ser por caminhos sinuosos",
+      "autor": "Johann Wol"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+    "BotToken": "MTEyMzA3MTExNTY3NDI1OTUyNw.Ge6tLf.Kp3jiSw2y1Iz5ZPvJOPDNnXYgHaWaDjHD9kBV4",
+    "MongoURL": "mongodb+srv://teste:1111@cluster0.gin9iqo.mongodb.net/",
+    "embed": "#ebab0e",
+    "client": "1123071115674259527",
+    "guild": "1269109302401175625",
+    "Logo": "https://cdn.discordapp.com/attachments/1114010996592345189/1114019217679855616/logo.png",
+    "canal_conexao": "1269109422651736134",
+    "prefix": "!",
+    "Color": {
+        "default": "#5865f2",
+        "danger": "#db2025",
+        "notice": "#feee04",
+        "success": "#729d0c"
+    },
+    "color-embed": [
+        { "name": "Neutro", "color": "#36393F" },
+        { "name": "Branco", "color": "#ffffff" },
+        { "name": "Azul Clássico", "color": "#3186c5" },
+        { "name": "Azul Discord", "color": "#5159da" },
+        { "name": "Azul Escuro", "color": "#206694" },
+        { "name": "Verde Clássico", "color": "#2ecc70" },
+        { "name": "Verde Discord", "color": "#50d57d" },
+        { "name": "Verde Escuro", "color": "#1f8b4c" },
+        { "name": "Vermelho Clássico", "color": "#e74d3c" },
+        { "name": "Vermelho Discord", "color": "#ed4245" },
+        { "name": "Vermelho Escuro", "color": "#992e22" },
+        { "name": "Laranja Clássico", "color": "#e67e22" },
+        { "name": "Roxo Clássico", "color": "#9c59b6" }
+    ]
+   }
